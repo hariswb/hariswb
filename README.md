@@ -8,4 +8,5 @@ Covid 19 Dashboard build with react and d3
 2. [Genetic Algorithm of Community Detection](https://github.com/hariswb/ga-community-detection)
 A little script for graph community detection using genetic algorithm  
 
-3.[Network Narrative](https://hariswb.com/networknarrative) ([repo](https://github.com/hariswb/networknarrative)) An experiment of reviewing Les Miserables novel by its social network with the help of interractive dashboard
+3. [Network Narrative](https://hariswb.com/networknarrative) ([repo](https://github.com/hariswb/networknarrative)) 
+An experiment of reviewing Les Miserables novel by its social network with the help of interractive dashboard
